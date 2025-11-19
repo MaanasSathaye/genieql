@@ -7,6 +7,7 @@ import (
 
 // implements the pgx driver https://github.com/jackc/pgx
 func init() {
+	pgx = append(pgx, pgvectorTypes...)
 	errorsx.MaybePanic(genieql.RegisterDriver(PGX, NewDriver("github.com/jackc/pgtype", pgx...)))
 }
 

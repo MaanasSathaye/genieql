@@ -47,6 +47,7 @@ require (
 	github.com/jackc/puddle/v2 v2.2.2 // indirect
 	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.10 // indirect
+	github.com/lib/pq v1.10.9 // indirect
 	github.com/marcboeker/go-duckdb/arrowmapping v0.0.8 // indirect
 	github.com/marcboeker/go-duckdb/mapping v0.0.9 // indirect
 	github.com/mfridman/interpolate v0.0.2 // indirect

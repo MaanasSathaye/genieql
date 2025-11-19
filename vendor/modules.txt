@@ -150,6 +150,8 @@ github.com/klauspost/compress/zstd/internal/xxhash
 # github.com/klauspost/cpuid/v2 v2.2.10
 ## explicit; go 1.22
 github.com/klauspost/cpuid/v2
+# github.com/lib/pq v1.10.9
+## explicit; go 1.13
 # github.com/marcboeker/go-duckdb/arrowmapping v0.0.8
 ## explicit; go 1.24
 github.com/marcboeker/go-duckdb/arrowmapping
